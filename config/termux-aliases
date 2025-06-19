@@ -1,0 +1,6 @@
+alias whois="whois"
+alias dnsenum="dnsenum"
+alias recon="recon-ng"
+alias harvester="python ~/theharvester/theHarvester.py -d example.com -b google"
+alias subfinder="subfinder -d example.com"
+alias recon-update='bash ~/Termux-Recon-Automator/install.sh'
